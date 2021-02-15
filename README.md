@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Andrew Aeilts
+## akabmm@umsystem.edu
 
 You can use the [editor on GitHub](https://github.com/aaeilts/456website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
