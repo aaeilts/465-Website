@@ -1,4 +1,6 @@
-# Assignment 1
+# Andrew Aeilts
+### akabmm@umsystem.edu
+
 
 ### Examples of good design:
 1. The first example of good design I will discuss comes from the design of my phone interface. The purpose of this design to allow the phone's users to be able to navigate and use the phone easily and effectively. My Samsung Galaxy S8 offers a small menu that you can swipe from the side of the screen to bring up any applications that you may frequently use. This allows flexibility in that you can access this menu from any screen or menu on your phone at any time allowing for fast and easy navigation. 
