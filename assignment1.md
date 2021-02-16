@@ -2,6 +2,7 @@
 ### akabmm@umsystem.edu
 
 
+# Assignment 1
 ### Examples of good design:
 1. The first example of good design I will discuss comes from the design of my phone interface. The purpose of this design to allow the phone's users to be able to navigate and use the phone easily and effectively. My Samsung Galaxy S8 offers a small menu that you can swipe from the side of the screen to bring up any applications that you may frequently use. This allows flexibility in that you can access this menu from any screen or menu on your phone at any time allowing for fast and easy navigation. 
 2. The second example of good user interface design I am again pulling from my phone. This example however comes from a specific application that came with the phone itself called Samsung Pay. Samsung Pay allows you to use your phone to pay with any debit or credit card that you have via chip reader. This in itself is very convenient, but the best part about the interface design is that the phone allows you to access Samsung Pay from any screen at any time as long as the screen is on just by swiping up from the bottom. It then asks for a security confirmation to ensure nobody else is trying to use your phone to pay for something, then at it's home screen you can simply swipe left or right to choose which card you would like to use, enter a PIN, and you're good to go. 
